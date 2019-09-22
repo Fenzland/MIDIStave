@@ -1,0 +1,16 @@
+MIDIStave 1.0
+time-unit: /4
+instruments:
+	: piano
+	V: violin
+	G: guitar
+---
+
+1 50
+1 52
+1 54
+1 55
+2 57
+2 59
+4 5B
+4 54 57 60
